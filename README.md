@@ -1,3 +1,4 @@
+//table print program
 # Java
 import java.util.Scanner;
  class Main {
@@ -6,6 +7,6 @@ Scanner sc = new Scanner
 (System.in);
 int n = sc.nextInt();
 for(int i=1;i<11;i++){
-System.out.println(i*n)
+System.out.println(i*n);
 }
 }
